@@ -1,0 +1,47 @@
+h1{
+    color: rgb(14, 11, 13);
+    text-align: center;
+    border: 10px double red;
+    font-size:10ch;
+}
+h2{
+    color: rgb(82, 13, 99);
+    border: 0pc;
+    text-align: center;
+    font-size: 1.5cm;
+}
+h3{
+    color: rgb(100, 63, 11);
+    border: 0pc dotted ;
+    font-size: 4ch;
+}
+h4{
+    font-size: 5ch;
+    color: rgb(2, 92, 44);
+}
+body{
+    background-color: aquamarine;
+}
+.left {
+    display: block;
+    margin-left:0;
+    margin-right: auto;
+    width: 40%;
+    height: 8cm;
+  }
+.right {
+    display: block;
+    margin-left: auto;
+    margin-right: 0;
+    width: 40%;
+    height: 8cm;
+  }
+p{
+    color: rgb(15, 2, 27);
+    color: rgb(rgb(157, 69, 69), green, blue);
+    font-size: 3ch;
+}
+button{
+    margin-left: auto;
+    margin-right: auto;
+}
